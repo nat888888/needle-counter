@@ -26,7 +26,6 @@
 
 ```bash
 git clone https://github.com/natsu888888/needle-counter.git
-cd needle-counter
 ```
 
 もしGitを使わない場合は、「Code」ボタン →「Download ZIP」でzipファイルとしてダウンロードし、
@@ -37,6 +36,7 @@ cd needle-counter
 「仮想環境」を作ることで、パソコン全体の設定を汚さずに、必要な道具だけをそろえられます。
 
 ```bash
+cd needle-counter
 python3 -m venv venv
 source venv/bin/activate
 ```
