@@ -4,3 +4,7 @@ __pycache__/
 .DS_Store
 *.ipynb_checkpoints
 images/
+
+# Word files and temp files
+*.docx
+~$*
